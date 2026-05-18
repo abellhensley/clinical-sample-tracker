@@ -94,4 +94,4 @@ streamlit run dashboard/app.py
 ## Author
 
 Austin Bell-Hensley, PhD  
-[LinkedIn](https://www.linkedin.com/in/austinbellhensley) · [Google Scholar](https://scholar.google.com)
+[LinkedIn](https://www.linkedin.com/in/austinbellhensley) · [Google Scholar]([https://scholar.google.com/citations?hl=en&user=fgtNXpgAAAAJ])
